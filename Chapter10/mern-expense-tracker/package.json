@@ -55,7 +55,7 @@
     "helmet": "3.22.0",
     "jsonwebtoken": "8.5.1",
     "lodash": "4.17.15",
-    "mongoose": "5.9.7",
+    "mongoose": "6.13.12",
     "query-string": "6.11.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
